@@ -1,0 +1,30 @@
+#top{
+    color: blue;
+    text-align: right;
+}
+.google_txt {
+    text-align: center;
+    margin-top: 150px;
+}
+input{
+    border-radius: 20px;
+    margin: 5px;
+}
+form{
+    text-align: center;
+}
+.box{
+    width: 500px;
+    height: 40px;
+}
+.options{
+    margin: 5px;
+}
+
+.options[type="submit"]{
+    color: white;
+    background-color: blue;
+}
+.container{
+    text-align: left;
+}
